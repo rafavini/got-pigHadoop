@@ -22,7 +22,7 @@ https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
 * **Quais foram os melhores meses da serie em votos ?** 
 
 
-Enviar o relatorio mais os codigos em um zip 
+
 <hr>
 <p align="center">
 Developed with ❤️ in Brazil Campo Grande MS 
