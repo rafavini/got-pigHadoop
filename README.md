@@ -7,8 +7,6 @@ O seguinte repositorio tem como objetivo analisar e resolver problemas criados p
 DATA-SET
 https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
 
-RELATÓRIO
-https://1drv.ms/w/s!AoxCxb6Jkm_IhjkCidwohKaIVRHM?e=VygJZj
 
 ## Problemas:
 
