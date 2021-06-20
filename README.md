@@ -7,9 +7,7 @@ O seguinte repositorio tem como objetivo analisar e resolver problemas criados p
 DATA-SET
 https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
 
-<p>
-   <a href:"https://github.com/rafavini/got-pigHadoop/blob/main/Relat%C3%B3rio%20sistemas%20%20distribuidos.pdf">Relatório</a>
-</p>
+<a href="https://loficlub.now.sh/" target="blank">View Demo</a>
 
 
 ## Problemas:
