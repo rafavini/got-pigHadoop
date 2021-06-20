@@ -4,11 +4,11 @@
 
 O seguinte repositorio tem como objetivo analisar e resolver problemas criados para um dataset. Para isso, configuramos o ambiente distribuído apache hadoop e utilizando na solução o apache pig, ferramenta que permite analisar dados por meio do hadoop.
 
-DATA-SET
-https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
-
-<a href="https://github.com/rafavini/got-pigHadoop/blob/main/Relat%C3%B3rio%20sistemas%20%20distribuidos.pdf" target="blank">Relatório</a>
-
+<p align="center">
+    <a href="https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset" target="blank">DataSet</a>
+    ·
+    <a href="https://github.com/rafavini/got-pigHadoop/blob/main/Relat%C3%B3rio%20sistemas%20%20distribuidos.pdf" target="blank">Relatório</a>
+</p>
 
 ## Problemas:
 
